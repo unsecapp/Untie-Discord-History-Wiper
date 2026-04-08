@@ -11,7 +11,7 @@ A sleek web dashboard to view and erase your Discord activity across servers, DM
 [![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-Selfbot-red.svg)](https://discord.com)
 
-[Features](#-features) • [Quick Start](#-quick-start) • [Manual Setup](#-manual-setup) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Disclaimer](#%EF%B8%8F-disclaimer)
+[Features](#-features) • [Quick Start](#-quick-start) • [Manual Setup](#-manual-setup) • [Usage](#-usage) • [Disclaimer](#%EF%B8%8F-disclaimer)
 
 </div>
 
